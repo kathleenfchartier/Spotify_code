@@ -1,5 +1,5 @@
 # Spotify_code
-Python code used to download data from Spotify API
+Python code used to get needed data for Spotify dashboard
 
 These files represent the Python code that I created to:
 
