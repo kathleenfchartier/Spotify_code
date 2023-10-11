@@ -1,3 +1,5 @@
+# This code is uses the Spotify Developers login credentials to access the Spotfiy API.  
+# For each person's history file, it is used to get additional song information and the history files updated.
 
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
