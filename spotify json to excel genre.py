@@ -1,3 +1,5 @@
+# This code was used to separate the genres list for each song and export it to excel so that it can be used in analysis.
+
 import pandas as pd
 import json
 from pandas import json_normalize
