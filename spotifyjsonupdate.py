@@ -1,3 +1,5 @@
+#  This code is used to update each person's history file by adding their name to each object in the json file
+
 import json
 
 
